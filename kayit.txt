@@ -1,0 +1,13 @@
+htc		one10		gri	3000	23.7.2017
+iphone		7s		beyaz	2500	14.4.2017
+samsung		s7		metalik	2100	10.11.2017
+samsung		s9		siyah	4232	22.13.2017
+samsung		s9		siyah	4000	22.13.2017
+lg		g5		mavi	1300	12.10.2018
+samsung		s7		gri	1500	19.3.2018
+htc		m9		gumus	2000	8.3.2018
+lg		g7		siyah	4000	12.1.2018
+asus		laser5		siyah	1300	22.2.2018
+xiaomi		mi6		beyaz	1500	6.12.2017
+samsung		s6		mavi	1650	12.8.2018
+asus		laser4		siyah	1050	12.10.2018
